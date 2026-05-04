@@ -1,0 +1,6 @@
+{
+  "name": "agent-fornis-convertidor-de-monedas-con-tas-mork2ejp",
+  "version": "1.0.0",
+  "description": "Proyecto de Fornis [Gen13]: convertidor de monedas con tasas en tiempo real",
+  "main": "index.js"
+}
